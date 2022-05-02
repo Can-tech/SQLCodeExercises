@@ -1,3 +1,3 @@
 # SQLCodeExercise1
-Patika Ödev 1
+Patika SQL Ödevleri
 www.patika.dev
